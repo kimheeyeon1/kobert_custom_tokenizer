@@ -20,11 +20,6 @@ kobert_custom_tokenizer
 │
 ├ baseline_kobert.ipynb          # 기본 KoBERT tokenizer 사용
 ├ custom_tokenizer_kobert.ipynb  # Custom tokenizer 사용
-│
-├ data
-│   └ dataset.csv
-│
-├ requirements.txt
 └ README.md
 ```
 ---
