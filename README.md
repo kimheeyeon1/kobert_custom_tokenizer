@@ -37,6 +37,6 @@ kobert_custom_tokenizer
 ---
 ## 실험 결과 (Accuracy)
 
-KoBERT Tokenizer | 0.58
+KoBERT Tokenizer | 0.71
 
 Custom Tokenizer | 0.87
